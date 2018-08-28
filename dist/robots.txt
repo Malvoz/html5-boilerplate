@@ -3,3 +3,7 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
+
+# www.sitemaps.org/protocol.html#submit_robots
+# Point to a sitemap file location (absolute url) for search engines to index.
+# Sitemap: https://www.example.com/sitemap.xml
